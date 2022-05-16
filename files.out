@@ -1,0 +1,13 @@
+Files dist/linux-5.15.33/arch/x86/entry/syscalls/syscall_64.tbl and /home/ander6/pp2-mkpatch/work/linux-5.15.33/arch/x86/entry/syscalls/syscall_64.tbl differ
+Only in /home/ander6/pp2-mkpatch/work/linux-5.15.33: .config
+Only in /home/ander6/pp2-mkpatch/work/linux-5.15.33: first.config
+Files dist/linux-5.15.33/fs/read_write.c and /home/ander6/pp2-mkpatch/work/linux-5.15.33/fs/read_write.c differ
+Only in /home/ander6/pp2-mkpatch/work/linux-5.15.33/include/linux: ander6.h
+Files dist/linux-5.15.33/include/linux/sched.h and /home/ander6/pp2-mkpatch/work/linux-5.15.33/include/linux/sched.h differ
+Files dist/linux-5.15.33/kernel/sched/core.c and /home/ander6/pp2-mkpatch/work/linux-5.15.33/kernel/sched/core.c differ
+Files dist/linux-5.15.33/kernel/sys.c and /home/ander6/pp2-mkpatch/work/linux-5.15.33/kernel/sys.c differ
+Files dist/linux-5.15.33/kernel/time/itimer.c and /home/ander6/pp2-mkpatch/work/linux-5.15.33/kernel/time/itimer.c differ
+Only in /home/ander6/pp2-mkpatch/work/linux-5.15.33: Makefile.mkpatch
+Only in /home/ander6/pp2-mkpatch/work/linux-5.15.33/tools/objtool/arch/x86: lib
+Only in /home/ander6/pp2-mkpatch/work/linux-5.15.33/tools/objtool: fixdep
+Only in /home/ander6/pp2-mkpatch/work/linux-5.15.33/tools/objtool: objtool
